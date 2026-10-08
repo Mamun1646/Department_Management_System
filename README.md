@@ -1,1 +1,1 @@
-# Alumni_And_Information_Management_System
+Department_Management_System
